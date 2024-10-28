@@ -14,4 +14,4 @@ Tema 1
 
 Ejercicio | Descripción
 ----------|------------
-[ejercicio2](/tema1/ejercicio2.md) | Trabajando con scripts
+[ejercicio2](/tema1/Ejercicio2.md) | Trabajando con scripts
